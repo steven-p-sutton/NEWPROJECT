@@ -6,7 +6,7 @@
     <edmx:Diagrams>
       <Diagram DiagramId="9847ff33f21d45419c893166c97fb426" Name="Diagram1">
         <EntityTypeShape EntityType="BloggingModel.Blog" Width="1.5" PointX="0.5" PointY="0.5" IsExpanded="true" />
-        <EntityTypeShape EntityType="BloggingModel.Post" Width="1.5" PointX="3" PointY="0.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="BloggingModel.Post" Width="1.5" PointX="3.5" PointY="0.75" IsExpanded="true" />
         <AssociationConnector Association="BloggingModel.FK_dbo_Posts_dbo_Blogs_BlogId" ManuallyRouted="false" />
       </Diagram>
     </edmx:Diagrams>
